@@ -78,8 +78,8 @@ static const uint8_t LP_TX = 11;
 
 #define ST7789_DRIVER 1
 #define TFT_RGB_ORDER 0
-#define TFT_WIDTH 172
-#define TFT_HEIGHT 320
+#define TFT_WIDTH 240
+#define TFT_HEIGHT 240 
 
 /* ---------------------   */
 // Common TFT definitions
